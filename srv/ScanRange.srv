@@ -1,0 +1,9 @@
+float32 pan_angle_min
+float32 pan_angle_max
+float32 pan_angle_increment
+float32 tilt_angle_min
+float32 tilt_angle_max
+float32 tilt_angle_increment
+uint32 control_signal
+---
+uint32 acknowledge
